@@ -1,0 +1,135 @@
+Speakers:
+  - name: Sergio Barbarossa
+    email: gspworkshop2024@gmail.com
+    affiliation: Sapienza University of Rome
+    url: https://sites.google.com/a/uniroma1.it/sergiobarbarossa/home
+    image: speakers/sergio.jpg
+    id: SB
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Georgios B. Giannakis
+    email: gspworkshop2024@gmail.com
+    affiliation: University of Minnesota
+    url: https://spincom.umn.edu/
+    image: speakers/georgios.jpg
+    id: GG
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Francesca Parise
+    email: gspworkshop2024@gmail.com
+    affiliation: Cornell University
+    url: https://sites.coecis.cornell.edu/parise/
+    image: speakers/francesca.jpg
+    id: FP
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Stefan Vlaski
+    email: gspworkshop2024@gmail.com
+    affiliation: Imperial College London
+    url: https://stefanvlaski.github.io/
+    image: speakers/stefan.jpg
+    id: SV
+    topic: Coming soon
+    abstract:
+    bio:
+
+  - name: Smita Krishnaswamy
+    email: gspworkshop2024@gmail.com
+    affiliation: Yale University
+    url: https://krishnaswamylab.org/
+    image: speakers/smita.jpg
+    id: SK
+    topic: Coming soon
+    abstract:
+    bio:
+    
+  - name: Piet Van Mieghem
+    email: gspworkshop2024@gmail.com
+    affiliation: TU Delft
+    url: https://www.nas.ewi.tudelft.nl/people/Piet/
+    image: speakers/piet.jpg
+    id: PVM
+    topic: Coming soon
+    abstract:
+    bio:
+
+Instructors:
+  - name: Xiaowen Dong
+    email: xdong@robots.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://web.media.mit.edu/~xdong/
+    image: people/xiaowen.jpg
+
+  - name: Antonio Marques
+    email: antonio.garcia.marques@urjc.es
+    affiliation: King Juan Carlos University | ELLIS Member (ELLIS Unit Madrid)
+    url: https://www.tsc.urjc.es/~amarques/
+    image: people/Marques_Square.jpg
+
+  - name: Gonzalo Mateos
+    email: gmateosb@ece.rochester.edu
+    affiliation: University of Rochester
+    url: https://www.hajim.rochester.edu/ece/sites/gmateos//
+    image: people/Gonzalo.jpg
+
+  - name: Santiago Segarra
+    email: segarra@rice.edu
+    affiliation: Rice University
+    url: https://segarra.rice.edu
+    image: people/SANTIAGO.jpg
+
+  - name: Dorina Thanou
+    email: dorina.thanou@epfl.ch
+    affiliation: EPFL | ELLIS Scholar (ELLIS Unit Lausanne)
+    url: https://people.epfl.ch/dorina.thanou?lang=en
+    image: people/Dorina.jpg
+
+  - name: Laura Toni
+    email: l.toni@ucl.ac.uk
+    affiliation: University College London | ELLIS Member (ELLIS Unit London)
+    url: https://www.ucl.ac.uk/iccs/dr-laura-toni
+    image: people/laura.jpg
+
+Local_team:
+  - name: Pedro Gomes
+    email: pedro.gomes.19@ucl.ac.uk
+    affiliation: University College London
+    url: https://laspucl2016.wpcomstaging.com/team/pedro-gomes/
+    image: people/pedro.jpg
+    
+  - name: Keyue Jiang
+    email: keyue.jiang.18@ucl.ac.uk
+    affiliation: University College London
+    url: https://garyball.github.io/
+    image: people/keyue.jpg
+
+  - name: Henry Kenlay
+    email: kenlay@robots.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://henrykenlay.github.io/
+    image: people/henry.jpg
+
+  - name: Nagham Osman
+    email: nagham.osman.21@ucl.ac.uk
+    affiliation: University College London
+    url: https://laspucl2016.wpcomstaging.com/team/nagham-osman/
+    image: people/nagham.jpg
+
+  - name: Baskaran Sripathmanathan
+    email: pemb5999@ox.ac.uk
+    affiliation: University of Oxford
+    url: https://gspworkshop.github.io
+    image: people/baskaran.jpg
+    
+  - name: Bohan Tang
+    email: bohan.tang@eng.ox.ac.uk
+    affiliation: University of Oxford
+    url: https://gspworkshop.github.io
+    image: people/bohan_2.jpg
+
